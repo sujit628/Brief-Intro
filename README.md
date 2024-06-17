@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujit628
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to collaborate on Development company where I can implement my knowledge and skills.
 - 📫 You can reach me via email - das884536@gmail.com 
 
